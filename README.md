@@ -12,7 +12,7 @@ Users can unlock the door by entering the correct password and can also change t
 
 ## Project Overview
 
-![System Overview](images/overview.jpg)
+![System Overview](images/Overview.jpg)
 
 ### Demonstration
 
@@ -22,13 +22,17 @@ A demonstration video of the Smart Door Lock system is available in this reposit
 
 ## Hardware Photos
 
-### Keypad
+### Servo and Keypad
 
-![Keypad](images/keypad.jpg)
+![Keypad](images/Servo and Keypad.jpg)
 
-### LCD, Servo and Buzzer
+### LCD
 
-![Modules](images/modules.jpg)
+![Modules](images/LCD.jpg)
+
+### Buzzer
+
+![Modules](images/Buzzer.jpg)
 
 ---
 
