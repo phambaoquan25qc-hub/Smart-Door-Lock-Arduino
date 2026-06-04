@@ -24,7 +24,7 @@ A demonstration video of the Smart Door Lock system is available in this reposit
 
 ### Servo and Keypad
 
-![Keypad](images/Servo and Keypad.jpg)
+![Keypad](images/SandK.jpg)
 
 ### LCD
 
