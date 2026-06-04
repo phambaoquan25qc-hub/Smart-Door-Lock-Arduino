@@ -8,6 +8,30 @@ This project simulates an electronic door lock using a 4x4 keypad, LCD1602 displ
 
 Users can unlock the door by entering the correct password and can also change the password directly from the keypad.
 
+---
+
+## Project Overview
+
+![System Overview](images/overview.jpg)
+
+### Demonstration
+
+A demonstration video of the Smart Door Lock system is available in this repository.
+
+---
+
+## Hardware Photos
+
+### Keypad
+
+![Keypad](images/keypad.jpg)
+
+### LCD, Servo and Buzzer
+
+![Modules](images/modules.jpg)
+
+---
+
 ## Features
 
 - Password-based authentication
@@ -102,10 +126,6 @@ Press:
 
 to clear the current input.
 
-## Project Photos
-
-Project photos will be added here.
-
 ## Future Improvements
 
 - RFID authentication
@@ -116,7 +136,7 @@ Project photos will be added here.
 
 ## Author
 
-Phạm Bảo Quân
+Pham Bao Quan
 
 ## License
 
