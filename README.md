@@ -1,4 +1,4 @@
-# Smart Door Lock 🔐
+# Smart Door Lock 
 
 A password-protected smart door lock system built with Arduino Uno.
 
@@ -8,6 +8,8 @@ This project simulates an electronic door lock using a 4x4 keypad, LCD1602 displ
 
 Users can unlock the door by entering the correct password and can also change the password directly from the keypad.
 
+This project was developed as a personal learning project to explore embedded systems, Arduino programming, and hardware integration.
+
 ---
 
 ## Project Overview
@@ -16,7 +18,9 @@ Users can unlock the door by entering the correct password and can also change t
 
 ### Demonstration
 
-A demonstration video of the Smart Door Lock system is available in this repository.
+Watch the project in action:
+
+[Arduino Smart Door Lock Demo](https://youtube.com/shorts/ufBMHLkxQuU?si=CEjWIMdkkEDhSXRj)
 
 ---
 
