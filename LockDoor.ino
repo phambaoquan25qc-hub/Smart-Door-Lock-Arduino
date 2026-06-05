@@ -1,5 +1,5 @@
 /*
-  Smart Door Lock 🔐
+  Smart Door Lock
 
   Features:
   - Password unlock using Keypad 4x4
